@@ -21,4 +21,4 @@ for packet in cap:
 # Print some basic statistics
 print(f'Total packets in the capture: {total_packets}')
 print(f'Unique source IPs: {len(source_ips)}')
-print(f'Unique destination IPs: {len(len(destination_ips)}')
+print(f'Unique destination IPs: {len(destination_ips)}')
